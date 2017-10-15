@@ -29,14 +29,14 @@ Shortcut: `Ctrl + Shift + t` to insert a new form or edit a exist form.
 
 ## Images
 Drag & drop
-![ogurayuka](media/ogurayuka.jpg)
+![ogurayuka](ogurayuka.jpg)
 
 In MWeb, use `-w + #` to control image width
-![ogurayuka -w300](media/ogurayuka.jpg)
+![ogurayuka -w300](ogurayuka.jpg)
 
 `-c -l -r` to set image alignment:
-![ogurayuka -c300](media/ogurayuka.jpg)
-![ogurayuka -r300](media/ogurayuka.jpg)
+![ogurayuka -c300](ogurayuka.jpg)
+![ogurayuka -r300](ogurayuka.jpg)
 
 
 
